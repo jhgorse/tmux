@@ -1,0 +1,9 @@
+[submodule ".bash/liquidprompt"]
+	path = .bash/liquidprompt
+	url = https://github.com/nojhan/liquidprompt.git
+[submodule "/Users/jhg/.tmux/plugins/tpm"]
+	path = /Users/jhg/.tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
+[submodule "/Users/jhg/.tmux/plugins/tmux-resurrect"]
+	path = /Users/jhg/.tmux/plugins/tmux-resurrect
+	url = https://github.com/tmux-plugins/tmux-resurrect.git
