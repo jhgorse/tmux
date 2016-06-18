@@ -1,5 +1,6 @@
 # tmux
 
+```bash
 mkdir bin && cd bin/
 wget https://raw.githubusercontent.com/RichiH/vcsh/master/vcsh
 chmod +x vcsh
@@ -9,3 +10,4 @@ git submodule init
 git submodule update
 # ./vcsh bash submodule init
 # ./vcsh bash submodule update
+```
